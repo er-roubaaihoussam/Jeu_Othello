@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1613984507 source:c:\users\hpr\desktop\g1\c\projet\othello\othello\joueur_vs_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1613938346 source:c:\users\hpr\desktop\g1\c\projet\othello\othello\machine_vs_joueur(rand).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1613939736 source:c:\users\hpr\desktop\g1\c\projet\othello\othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1613984330 source:c:\users\hpr\desktop\g1\c\projet\othello\othello\minimax.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1614089749 source:c:\users\hpr\desktop\g1\c\projet\othello\othello_last\joueur_vs_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1613938346 source:c:\users\hpr\desktop\g1\c\projet\othello\othello_last\machine_vs_joueur(rand).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1613939736 source:c:\users\hpr\desktop\g1\c\projet\othello\othello_last\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1613984330 source:c:\users\hpr\desktop\g1\c\projet\othello\othello_last\minimax.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1614203093 source:c:\projet\test3\othello_last_last\joueur_vs_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1613938346 source:c:\projet\test3\othello_last_last\machine_vs_joueur(rand).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1614182111 source:c:\projet\test3\othello_last_last\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1614197009 source:c:\projet\test3\othello_last_last\minimax.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1614116648 source:c:\projet\test3\othello_last_last\minimax2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1613938346 source:c:\projet\test3\othello_last_last\joueur_vs_machinefacile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+
+1614202892 source:c:\projet\test3\othello_last_last\joueur_vs_machinemoyenne.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	<windows.h>
+	<tchar.h>
+

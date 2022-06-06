@@ -1,0 +1,20 @@
+                       ____ _______ _    _ ______ _      _      ____  
+                      / __ \__   __| |  | |  ____| |    | |    / __ \ 
+                     | |  | | | |  | |__| | |__  | |    | |   | |  | |
+                     | |  | | | |  |  __  |  __| | |    | |   | |  | |
+                     | |__| | | |  | |  | | |____| |____| |___| |__| |
+                      \____/  |_|  |_|  |_|______|______|______\____/ 
+                                                  
+                                                  
+                                    Regles du jeu:
+
+1-Le jeu commence avec des pions noirs sur d5 et e4 et des pions blancs sur d4 et e5.
+2-Les joueurs jouent a tour de role, en commencant par les noirs.
+3-Un coup legal consiste a placer un nouveau pion sur une case vide et a retourner un ou plusieurs pions 
+de l adversaire qui sont entre le nouveau pion et un pion de la meme couleur deja sur le plateau.
+4-Les sandwichs peuvent etre formes verticalement, horizontalement ou en diagonale.
+5-Les pions peuvent etre retournees dans plusieurs directions sur le meme mouvement.
+6-Un nouveau pion ne peut pas etre joue sauf qu au moins un des pions de l adversaire soit retourne.
+Sinon le joueur passe son tour, et son adversaire continue de faire des mouvements consecutifs 
+jusqu a ce qu un coup legal devienne disponible a ce joueur.
+7-Le jeu continue jusqu a ce que le plateau soit completement rempli ou qu aucun joueur n'ait un coup legal.
